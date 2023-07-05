@@ -12,7 +12,7 @@ const auth = require("./middleware/auth");
  
 app.use(cors({
   credentials : true,
-  origin : "https://bejewelled-unicorn-711102.netlify.app"
+  origin : "https://sprightly-kashata-04364e.netlify.app"
 }));
 app.use(cookieParser())
 app.use(express.json());
