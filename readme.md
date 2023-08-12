@@ -2,11 +2,11 @@
 
 ---
 
-## Task
+## Overview
 
-- In this assignment I have to create full stack MERN application with authetication and after this it should get to the dashboard of my todo.
+- In this project, I have to create full stack MERN application with authetication.
 
-- Where Schema model will be having:
+- Dshboard will consist of following schema models:
 
   - User Schema (Username,password,email)
 
@@ -19,7 +19,7 @@
 
 - First Intention to create title then after adding it to the list I'll add extra task under it.
 
-## Technologies (Will be used in it)
+## Technologies 
 
 ---
 
@@ -30,12 +30,6 @@
 - Other required packages.
 
 ---
-
-## Demo Link
-
-- [You Tube Playlist](https://www.youtube.com/watch?v=Jm2rvVBhgho&list=PLcdldFD2CQ3y8TjApZw5gZJCFPRUmmuhu&ab_channel=AnshulGhogre)
-
-## Planning
 
 ### Frontend planning
 
@@ -72,6 +66,6 @@
 ## Live Links
 
 - Front end...
-  [Vercel](https://auth-todo-list-mern.vercel.app/)
+  [Vercel](https://crud-todo-app-two.vercel.app/)
 - Back end...
   [Railway](https://auth-todo-list-mern-production-e11d.up.railway.app/)
